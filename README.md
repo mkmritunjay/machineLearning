@@ -16,4 +16,3 @@
 |Classification Problems|[Projects]()|
 |Segmentation Problems|[Projects]()|
 |Forecasting Problems|[Projects]()|
-|Optimization Problems|[Projects]()|
