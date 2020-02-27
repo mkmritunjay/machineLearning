@@ -8,11 +8,3 @@
 |🐼 [Pandas](https://colab.research.google.com/github/mkmritunjay/machineLearning/blob/master/pandas_basics.ipynb)|<b>Segmentation Problems:</b></br><ul><li>♓️ [K-Means](https://colab.research.google.com/github/mkmritunjay/machineLearning/blob/master/KMeans.ipynb)</li></ul>|<b>Segmentation Problems:</b></br><ul><li>👀 [DBSCAN]</li></ul>|
 |📊 [Data Visualization]|<b>Forecasting Problems:</b></br><ul><li>⏲ [ARIMA](https://colab.research.google.com/github/mkmritunjay/machineLearning/blob/master/ARIMA.ipynb)</li><li>⏰ [ETS Model](https://colab.research.google.com/github/mkmritunjay/machineLearning/blob/master/ETSModel.ipynb)</li></ul>|<b>Forecasting Problems:</b></br><ul><li>⏱ [SARIMAX](https://colab.research.google.com/github/mkmritunjay/machineLearning/blob/master/SARIMAX.ipynb)</li></ul>|
 |📚[Statistics]|<b>Text Processing:</b></br><ul><li>🔎 [NLTK](https://colab.research.google.com/github/mkmritunjay/machineLearning/blob/master/NLTK.ipynb)</li><li>🔠[Natural Language Processing](https://colab.research.google.com/github/mkmritunjay/machineLearning/blob/master/NLP.ipynb)</li></ul>|<b>Optimization Problems:</b></br><ul><li>🧬 [Genetic Algorithm]</li></ul>|
-
-### Example projects coming soon
-|Problem Types|Projects|
-|-|-|
-|Regression Problems|[Projects]()|
-|Classification Problems|[Projects]()|
-|Segmentation Problems|[Projects]()|
-|Forecasting Problems|[Projects]()|
