@@ -1,4 +1,4 @@
-# Machine Learning
+# Machine Learning Basics
 
 ## Notebooks
 |Basics|Traditional Approach|Machine Learning Approach|
